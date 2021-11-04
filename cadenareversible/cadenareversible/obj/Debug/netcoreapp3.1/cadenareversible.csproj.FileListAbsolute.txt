@@ -1,0 +1,13 @@
+C:\Users\Andres Coronado\source\repos\cadenareversible\cadenareversible\bin\Debug\netcoreapp3.1\cadenareversible.exe
+C:\Users\Andres Coronado\source\repos\cadenareversible\cadenareversible\bin\Debug\netcoreapp3.1\cadenareversible.deps.json
+C:\Users\Andres Coronado\source\repos\cadenareversible\cadenareversible\bin\Debug\netcoreapp3.1\cadenareversible.runtimeconfig.json
+C:\Users\Andres Coronado\source\repos\cadenareversible\cadenareversible\bin\Debug\netcoreapp3.1\cadenareversible.runtimeconfig.dev.json
+C:\Users\Andres Coronado\source\repos\cadenareversible\cadenareversible\bin\Debug\netcoreapp3.1\cadenareversible.dll
+C:\Users\Andres Coronado\source\repos\cadenareversible\cadenareversible\bin\Debug\netcoreapp3.1\cadenareversible.pdb
+C:\Users\Andres Coronado\source\repos\cadenareversible\cadenareversible\obj\Debug\netcoreapp3.1\cadenareversible.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Andres Coronado\source\repos\cadenareversible\cadenareversible\obj\Debug\netcoreapp3.1\cadenareversible.AssemblyInfoInputs.cache
+C:\Users\Andres Coronado\source\repos\cadenareversible\cadenareversible\obj\Debug\netcoreapp3.1\cadenareversible.AssemblyInfo.cs
+C:\Users\Andres Coronado\source\repos\cadenareversible\cadenareversible\obj\Debug\netcoreapp3.1\cadenareversible.csproj.CoreCompileInputs.cache
+C:\Users\Andres Coronado\source\repos\cadenareversible\cadenareversible\obj\Debug\netcoreapp3.1\cadenareversible.dll
+C:\Users\Andres Coronado\source\repos\cadenareversible\cadenareversible\obj\Debug\netcoreapp3.1\cadenareversible.pdb
+C:\Users\Andres Coronado\source\repos\cadenareversible\cadenareversible\obj\Debug\netcoreapp3.1\cadenareversible.genruntimeconfig.cache

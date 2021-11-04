@@ -1,0 +1,13 @@
+C:\Users\Andres Coronado\source\repos\enterospositivos\enterospositivos\bin\Debug\netcoreapp3.1\enterospositivos.exe
+C:\Users\Andres Coronado\source\repos\enterospositivos\enterospositivos\bin\Debug\netcoreapp3.1\enterospositivos.deps.json
+C:\Users\Andres Coronado\source\repos\enterospositivos\enterospositivos\bin\Debug\netcoreapp3.1\enterospositivos.runtimeconfig.json
+C:\Users\Andres Coronado\source\repos\enterospositivos\enterospositivos\bin\Debug\netcoreapp3.1\enterospositivos.runtimeconfig.dev.json
+C:\Users\Andres Coronado\source\repos\enterospositivos\enterospositivos\bin\Debug\netcoreapp3.1\enterospositivos.dll
+C:\Users\Andres Coronado\source\repos\enterospositivos\enterospositivos\bin\Debug\netcoreapp3.1\enterospositivos.pdb
+C:\Users\Andres Coronado\source\repos\enterospositivos\enterospositivos\obj\Debug\netcoreapp3.1\enterospositivos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Andres Coronado\source\repos\enterospositivos\enterospositivos\obj\Debug\netcoreapp3.1\enterospositivos.AssemblyInfoInputs.cache
+C:\Users\Andres Coronado\source\repos\enterospositivos\enterospositivos\obj\Debug\netcoreapp3.1\enterospositivos.AssemblyInfo.cs
+C:\Users\Andres Coronado\source\repos\enterospositivos\enterospositivos\obj\Debug\netcoreapp3.1\enterospositivos.csproj.CoreCompileInputs.cache
+C:\Users\Andres Coronado\source\repos\enterospositivos\enterospositivos\obj\Debug\netcoreapp3.1\enterospositivos.dll
+C:\Users\Andres Coronado\source\repos\enterospositivos\enterospositivos\obj\Debug\netcoreapp3.1\enterospositivos.pdb
+C:\Users\Andres Coronado\source\repos\enterospositivos\enterospositivos\obj\Debug\netcoreapp3.1\enterospositivos.genruntimeconfig.cache

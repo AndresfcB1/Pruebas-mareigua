@@ -1,0 +1,14 @@
+C:\Users\Andres Coronado\source\repos\numeros1al100\numeros1al100\bin\Debug\netcoreapp3.1\numeros1al100.exe
+C:\Users\Andres Coronado\source\repos\numeros1al100\numeros1al100\bin\Debug\netcoreapp3.1\numeros1al100.deps.json
+C:\Users\Andres Coronado\source\repos\numeros1al100\numeros1al100\bin\Debug\netcoreapp3.1\numeros1al100.runtimeconfig.json
+C:\Users\Andres Coronado\source\repos\numeros1al100\numeros1al100\bin\Debug\netcoreapp3.1\numeros1al100.runtimeconfig.dev.json
+C:\Users\Andres Coronado\source\repos\numeros1al100\numeros1al100\bin\Debug\netcoreapp3.1\numeros1al100.dll
+C:\Users\Andres Coronado\source\repos\numeros1al100\numeros1al100\bin\Debug\netcoreapp3.1\numeros1al100.pdb
+C:\Users\Andres Coronado\source\repos\numeros1al100\numeros1al100\obj\Debug\netcoreapp3.1\numeros1al100.csproj.AssemblyReference.cache
+C:\Users\Andres Coronado\source\repos\numeros1al100\numeros1al100\obj\Debug\netcoreapp3.1\numeros1al100.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Andres Coronado\source\repos\numeros1al100\numeros1al100\obj\Debug\netcoreapp3.1\numeros1al100.AssemblyInfoInputs.cache
+C:\Users\Andres Coronado\source\repos\numeros1al100\numeros1al100\obj\Debug\netcoreapp3.1\numeros1al100.AssemblyInfo.cs
+C:\Users\Andres Coronado\source\repos\numeros1al100\numeros1al100\obj\Debug\netcoreapp3.1\numeros1al100.csproj.CoreCompileInputs.cache
+C:\Users\Andres Coronado\source\repos\numeros1al100\numeros1al100\obj\Debug\netcoreapp3.1\numeros1al100.dll
+C:\Users\Andres Coronado\source\repos\numeros1al100\numeros1al100\obj\Debug\netcoreapp3.1\numeros1al100.pdb
+C:\Users\Andres Coronado\source\repos\numeros1al100\numeros1al100\obj\Debug\netcoreapp3.1\numeros1al100.genruntimeconfig.cache
